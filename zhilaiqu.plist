@@ -19,13 +19,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aruistar.cmcapp</string>
+                <string>com.bpotop.zhilaiqu</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>cmcapp</string>
+                <string>zhilaiqu</string>
             </dict>
         </dict>
     </array>
